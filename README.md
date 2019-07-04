@@ -1,2 +1,3 @@
-# radix-sort-string
-Sorts C-strings array's in alphabetical order
+# Radix sort algorithm for strings
+
+Sorts C-string array's in alphabetical order
